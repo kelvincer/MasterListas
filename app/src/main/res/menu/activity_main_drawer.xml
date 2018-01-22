@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_1"
+            android:icon="@android:drawable/ic_menu_gallery"
+            android:title="@string/opcion_1" />
+        <item
+            android:id="@+id/nav_2"
+            android:icon="@android:drawable/ic_menu_gallery"
+            android:title="@string/opcion_2" />
+        <item
+            android:id="@+id/nav_3"
+            android:icon="@android:drawable/ic_menu_gallery"
+            android:title="@string/opcion_3" />
+
+    </group>
+    <item android:title="@string/acciones_adicionales">
+        <menu>
+            <item
+                android:id="@+id/nav_preferencias"
+                android:icon="@android:drawable/ic_menu_manage"
+                android:title="@string/preferencias" />
+            <item
+                android:id="@+id/nav_compartir"
+                android:icon="@android:drawable/ic_menu_share"
+                android:title="@string/compartir" />
+            <item
+                android:id="@+id/nav_compartir_lista"
+                android:icon="@android:drawable/ic_menu_share"
+                android:title="Compartir Lista" />
+            <item
+                android:id="@+id/nav_compartir_logo"
+                android:icon="@android:drawable/ic_menu_share"
+                android:title="Compartir Logo" />
+            <item
+                android:id="@+id/nav_compartir_desarrollador"
+                android:icon="@android:drawable/ic_menu_share"
+                android:title="Compartir Desarrollador" />
+            <item
+                android:id="@+id/nav_articulo_no_recurrente"
+                android:icon="@android:drawable/ic_menu_share"
+                android:title="Comprar artículo" />
+            <item
+                android:id="@+id/nav_consulta_inapps_disponibles"
+                android:icon="@android:drawable/ic_menu_share"
+                android:title="Artículos disponibles" />
+            <item
+                android:id="@+id/nav_susbripcion"
+                android:icon="@android:drawable/ic_menu_share"
+                android:title="Comprar Suscripción" />
+            <item
+                android:id="@+id/nav_consulta_subs_disponibles"
+                android:icon="@android:drawable/ic_menu_share"
+                android:title="Suscripciones disponibles" />
+        </menu>
+    </item>
+</menu>

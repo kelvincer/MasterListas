@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MasterListas</string>
+    <string name="drawer_open">navigation drawer abierto</string>
+    <string name="drawer_close">navigation drawer cerrado</string>
+    <string name="iniciar_sesion">Iniciar sesión</string>
+    <string name="nombre_de_usuario_o_correo">Nombre de usuario o correo</string>
+    <string name="contrasenia">Contraseña</string>
+    <string name="recordarme">Recordarme</string>
+    <string name="mostrar_contrasenia">Mostrar contraseña</string>
+    <string name="iniciar_sesion_boton">Iniciar Sesión</string>
+    <string name="borrar">Borrar</string>
+    <string name="he_olvidado_mi_contrasenia">HE OLVIDADO MI CONTRASEÑA</string>
+    <string name="quiero_registrarme_en_la_aplicacion">QUIERO REGISTRARME EN LA APLICACIÓN</string>
+    <string name="iniciar_sesion_con_facebook">Iniciar sesión con Facebook</string>
+    <string name="iniciar_sesion_con_google">Iniciar sesión con Google</string>
+    <string name="nombre_opcional">Nombre(Opcional)</string>
+    <string name="apellido_opcional">Apellido(Opcional)</string>
+    <string name="nombre_de_usuario">Nombre de usuario</string>
+    <string name="correo">correo</string>
+    <string name="contrasenia_registro">Contraseña</string>
+    <string name="registrar_registro">Registrar</string>
+    <string name="registro_titulo">Registro</string>
+    <string name="listas_disponibles_en_la_aplicacion_master_listas">Listas disponibles en la aplicación Master Listas</string>
+    <string name="listas">Listas</string>
+    <string name="masterlistas">MasterListas</string>
+    <string name="androidcurso_com">http://www.androidcurso.com</string>
+    <string name="opcion_1">Video bonificado</string>
+    <string name="opcion_2">Opción 2</string>
+    <string name="opcion_3">Opción 3</string>
+    <string name="acciones_adicionales">Acciones adicionales</string>
+    <string name="preferencias">Preferencias</string>
+    <string name="compartir">Compartir App</string>
+    <string name="recordar_datos">Recordar datos de usuario:</string>
+    <string name="si">Sí</string>
+    <string name="no">No</string>
+    <string name="trabajo_titulo">Trabajo</string>
+    <string name="personal_titulo">Personal</string>
+    <string name="presiono_fab">Se presionó el FAB</string>
+    <string name="fetch_fallado">Fetch ha fallado</string>
+    <string name="fetch_ok">Fetch ok</string>
+    <string name="ingresar_nombre_usuario">Necesitas ingresar el nombre de usuario</string>
+    <string name="ingresar_correo">Necesitas ingresar el correo</string>
+    <string name="numero_caracteres_correo">El nùmero de caracteres en el correo es menor a 3</string>
+    <string name="necesitas_ingresar_contrasenia">Necesitas ingresar la contraseña</string>
+    <string name="caracteres_contra_menor">El número de caracteres en la constraseña es menor a 8</string>
+    <string name="registro_satisfactorio">Registro satisfactorio</string>
+    <string name="trabajo">Trabajo</string>
+    <string name="personal">Personal</string>
+
+</resources>

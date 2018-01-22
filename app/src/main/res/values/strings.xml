@@ -1,0 +1,53 @@
+<resources>
+
+    <string name="app_name">MasterLists</string>
+    <string name="drawer_open">navigation drawer open</string>
+    <string name="drawer_close">navigation drawer close</string>
+    <!--Transición-->
+    <string name="transition_name_img" translatable="false">transition:IMG</string>
+    <string name="transition_fab" translatable="false">transition:FAB</string>
+    <string name="iniciar_sesion">Log in</string>
+    <string name="nombre_de_usuario_o_correo">Username or mail</string>
+    <string name="contrasenia">Password</string>
+    <string name="recordarme">Remind me</string>
+    <string name="mostrar_contrasenia">Show password</string>
+    <string name="iniciar_sesion_boton">Log in</string>
+    <string name="borrar">Delete</string>
+    <string name="he_olvidado_mi_contrasenia">I FORGOT MY PASSWORD</string>
+    <string name="quiero_registrarme_en_la_aplicacion">I WANT TO REGISTER IN THE APPLICATION</string>
+    <string name="iniciar_sesion_con_facebook">Log in with Facebook</string>
+    <string name="iniciar_sesion_con_google">Log in with Google</string>
+    <string name="nombre_opcional">Name (optional)</string>
+    <string name="apellido_opcional">Last name (Optional)</string>
+    <string name="nombre_de_usuario">Username</string>
+    <string name="correo">Email</string>
+    <string name="contrasenia_registro">Password</string>
+    <string name="registrar_registro">To register</string>
+    <string name="registro_titulo">Registry</string>
+    <string name="listas_disponibles_en_la_aplicacion_master_listas">Lists available in the Master Lists application</string>
+    <string name="listas">Lists</string>
+    <string name="masterlistas">MasterLists</string>
+    <string name="androidcurso_com">http://www.androidcurso.com</string>
+    <string name="opcion_1">Vídeo Bonificado</string>
+    <string name="opcion_2">Option 2</string>
+    <string name="opcion_3">Option 3</string>
+    <string name="acciones_adicionales">Additional actions</string>
+    <string name="preferencias">Preferences</string>
+    <string name="compartir">Share App</string>
+    <string name="recordar_datos">Remember user data:</string>
+    <string name="si">Yes</string>
+    <string name="no">No</string>
+    <string name="trabajo_titulo">Job</string>
+    <string name="personal_titulo">Personal</string>
+    <string name="presiono_fab">The FAB was pressed</string>
+    <string name="fetch_fallado">Fetch has failed</string>
+    <string name="fetch_ok">Fetch OK</string>
+    <string name="ingresar_nombre_usuario">You need to enter the username</string>
+    <string name="ingresar_correo">You need to enter the mail</string>
+    <string name="numero_caracteres_correo">The number of characters in the mail is less than 3</string>
+    <string name="necesitas_ingresar_contrasenia">You need to enter the password</string>
+    <string name="caracteres_contra_menor">The number of characters in the password is less than 8</string>
+    <string name="registro_satisfactorio">Satisfactory record</string>
+    <string name="trabajo">Job</string>
+    <string name="personal">Personal</string>
+</resources>

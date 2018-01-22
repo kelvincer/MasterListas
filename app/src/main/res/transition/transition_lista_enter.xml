@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transitionSet xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="300"
+    android:transitionOrdering="together">
+    <slide
+        android:interpolator="@android:interpolator/bounce"
+        android:slideEdge="left">
+
+        <targets>
+            <target android:targetId="@id/fab" />
+        </targets>
+    </slide>
+    <fade
+        android:fadingMode="fade_in"
+        android:interpolator="@android:interpolator/bounce">
+        <targets>
+            <target android:targetId="@id/app_bar" />
+        </targets>
+    </fade>
+</transitionSet>

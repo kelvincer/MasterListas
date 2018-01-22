@@ -1,0 +1,51 @@
+<resources>
+
+    <string name="app_name">MasterListes</string>
+    <string name="drawer_open">navigation drawer ouvert</string>
+    <string name="drawer_close">navigation drawer fermé</string>
+    <string name="iniciar_sesion">Commencer la session</string>
+    <string name="nombre_de_usuario_o_correo">Nom d\'utilisateur ou email</string>
+    <string name="contrasenia">Mot de passe</string>
+    <string name="recordarme">Ne pas oublier</string>
+    <string name="mostrar_contrasenia">Afficher le mot de passe</string>
+    <string name="iniciar_sesion_boton">Commencer la session</string>
+    <string name="borrar">Effacer</string>
+    <string name="he_olvidado_mi_contrasenia">J\'AI OUBLIÉ MON MOT DE PASSE</string>
+    <string name="quiero_registrarme_en_la_aplicacion">JE VEUX M\'ENREGISTRER SUR L'APPLICATION</string>
+    <string name="iniciar_sesion_con_facebook">Connectez-vous avec Facebook</string>
+    <string name="iniciar_sesion_con_google">Connectez-vous avec Google</string>
+    <string name="nombre_opcional">Nom (Facultatif)</string>
+    <string name="apellido_opcional">Le nom (facultatif)</string>
+    <string name="nombre_de_usuario">Nom d\'utilisateur</string>
+    <string name="correo">Courriel</string>
+    <string name="contrasenia_registro">Mot de passe</string>
+    <string name="registrar_registro">record</string>
+    <string name="registro_titulo">Inscription</string>
+    <string name="listas_disponibles_en_la_aplicacion_master_listas">Master listes disponibles dans les listes d\'application</string>
+    <string name="listas">Listes</string>
+    <string name="masterlistas">Master Listes</string>
+    <string name="androidcurso_com">http://www.androidcurso.com</string>
+    <string name="opcion_1">Option 1</string>
+    <string name="opcion_2">option 2</string>
+    <string name="opcion_3">option 3</string>
+    <string name="acciones_adicionales">actions supplémentaires</string>
+    <string name="preferencias">préférences</string>
+    <string name="compartir">Partager App</string>
+    <string name="recordar_datos">Enregistrer les données de l\'utilisateur:</string>
+    <string name="si">Oui.</string>
+    <string name="no">Non</string>
+    <string name="trabajo_titulo">Travail</string>
+    <string name="personal_titulo">Personnel</string>
+    <string name="presiono_fab">Il appuya sur le FAB</string>
+    <string name="fetch_fallado">échec de l\'extraction</string>
+    <string name="fetch_ok">chercher ok</string>
+    <string name="ingresar_nombre_usuario">Vous devez entrer le nom d\'utilisateur</string>
+    <string name="ingresar_correo">Vous devez saisir la poste</string>
+    <string name="numero_caracteres_correo">Le nombre de caractères dans le courrier est inférieur à 3</string>
+    <string name="necesitas_ingresar_contrasenia">Vous devez saisir le mot de passe</string>
+    <string name="caracteres_contra_menor">Le nombre de caractères dans la constraseña est inférieure à 8</string>
+    <string name="registro_satisfactorio">Les résultats satisfaisants</string>
+    <string name="trabajo">Job</string>
+    <string name="personal">Personnel</string>
+
+</resources>
